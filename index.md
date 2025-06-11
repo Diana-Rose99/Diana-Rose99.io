@@ -27,12 +27,12 @@ Industry certifications available on Credly: https://www.credly.com/users/diana-
 
 ## 🌍 Community Engagement
 
-**Careers'World Club**, Co-Founder & Chairperson  
-- A consortium of Serianu Ltd, USIU-Africa, and Kenya Bankers Association  
+**Careers'World Club**, Co-Founder & Chairperson    
 - Trained 500 students in Jomo Kenyatta University of Agriculture and Technology (40% women)  
 - 80%+ job placement rate in IT roles for members of the club.    
 
-**PDTP CSR**  
+**PDTP CSR** 
+- Presidential Digital Talent programme that trains youths for IT roles
 - Co-developed a scheme to reach out to women in society through a pad drive 
 
 ---
