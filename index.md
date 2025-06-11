@@ -49,7 +49,8 @@ Industry certifications available on Credly: https://www.credly.com/users/diana-
 - Work with field engineers on preventive maintenance.  
 - Tracking and documenting network issues
 - Reporting to the NOC Manager
-- 
+
+
  **IT Intern** , ICT Authority  
 - Configure network devices using iMaster
 - Network service management - Network service management and monitoring using applications such as U2000, iMaster, and NagVis.
