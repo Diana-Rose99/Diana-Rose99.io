@@ -33,7 +33,7 @@ Familiarize with Cisco Packet Tracer interface, device connections, and simple n
 - Simple troubleshooting and packet flow observation
 
 ---
-📄 [Check Out the Report](assets/images/CS-CNS09-25172 Packet Tracer Switch Router Network Report.pdf)
+📄 [Check Out the Report](/assets/images/CS-CNS09-25172 Packet Tracer Switch Router Network Report.pdf)
 
 ## Investigating the OSI & TCP/IP Models in Action
 
@@ -58,7 +58,7 @@ Visualize how data encapsulation and decapsulation happen at each network layer 
 - Encapsulation/decapsulation processes
 
 ---
-📄 [Download Full Report (DOCX)](/docs/DNS_TryHackMe_Report.docx)
+📄 [Check Out the Report](/assets/images/CS-CNS09-25172 HTB Academy-Introduction to Network Traffic Analysis.pdf)
 
 ## DNS in Detail (TryHackMe)
 
@@ -83,7 +83,7 @@ Understand how DNS works, its vulnerabilities, and how attackers may exploit DNS
 - Security risks associated with DNS
 
 ---
-📄 [Download Full Report (DOCX)](/docs/DNS_TryHackMe_Report.docx)
+📄 [Check Out the Report](/docs/DNS_TryHackMe_Report.docx)
 
 ## Web Requests (HTB Academy)
 
@@ -109,4 +109,4 @@ Understand how web clients interact with servers, and how attackers can manipula
 - Understanding web-based attack vectors like parameter tampering and SSRF
 
 ---
-📄 [Download Full Report (DOCX)](/docs/DNS_TryHackMe_Report.docx)
+📄 [Check Out the Report](/docs/DNS_TryHackMe_Report.docx)
