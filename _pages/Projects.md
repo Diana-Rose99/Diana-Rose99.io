@@ -34,6 +34,7 @@ Limited physiotherapy staff left many student-athletes underserved, prolonging r
 - Interdisciplinary integration: IT, sports medicine, AI, healthcare.
 
 ---
+📄 [Download Full Report (PDF)](/assets/images/PROJECT%20PROPPOSAL%20%28AutoRecovered%29.pdf)
 
 ## GitHub Projects
 
