@@ -40,16 +40,17 @@ Industry certifications available on Credly: https://www.credly.com/users/diana-
 ## 💼 Professional Experience
 
 **Service Delivery Dispatcher**, Techminds Technology Limited
-- Ensure on time dispatching of tickets and accuracy as the clients’ report.  
+- Ensure on-time dispatching of tickets and accuracy as per the client’s report.  
 - Track all requests and align with available resources to meet clients’ needs and schedule.  
-- Track resolution time for all incidences assigned to field technicians.
-- Ensure adherence to service level agreement (SLA).
+- Track resolution time for all incidents assigned to field technicians.
+- Ensure adherence to the service level agreement (SLA).
 - Ensure EHS safety on all assigned tickets.  
-- Improve average handling time for customer enquiry.
+- Improve average handling time for customer enquiries.
 - Work with field engineers on preventive maintenance.  
 - Tracking and documenting network issues
 - Reporting to the NOC Manager
-**IT intern **, ICT Authority  
+- 
+ **IT Intern** , ICT Authority  
 - Configure network devices using iMaster
 - Network service management - Network service management and monitoring using applications such as U2000, iMaster, and NagVis.
 - Network Operation Centre daily reports - Updating the network status of different network sites, links, and equipment in a shared Excel sheet.
