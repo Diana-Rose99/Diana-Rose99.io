@@ -33,7 +33,7 @@ Familiarize with Cisco Packet Tracer interface, device connections, and simple n
 - Simple troubleshooting and packet flow observation
 
 ---
-📄 [Download Full Report (DOCX)](/docs/DNS_TryHackMe_Report.docx)
+📄 [Check Out the Report](assets/images/CS-CNS09-25172 Packet Tracer Switch Router Network Report.pdf)
 
 ## Investigating the OSI & TCP/IP Models in Action
 
