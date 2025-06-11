@@ -49,9 +49,8 @@ Industry certifications available on Credly: https://www.credly.com/users/diana-
 - Work with field engineers on preventive maintenance.  
 - Tracking and documenting network issues
 - Reporting to the NOC Manager
-
-
- **IT Intern** , ICT Authority  
+  
+**IT Intern**, ICT Authority Kenya
 - Configure network devices using iMaster
 - Network service management - Network service management and monitoring using applications such as U2000, iMaster, and NagVis.
 - Network Operation Centre daily reports - Updating the network status of different network sites, links, and equipment in a shared Excel sheet.
