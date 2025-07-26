@@ -5,8 +5,6 @@ layout: posts
 author_profile: true
 ---
 
-# Resume
-
 ---
 
 ## 🎯 Professional Summary
