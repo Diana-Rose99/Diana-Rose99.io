@@ -6,8 +6,6 @@ author_profile: true
 toc: true
 ---
 
-# My Lab Challenges.
-
 ---
 
 ## Introduction to Cisco Packet Tracer
