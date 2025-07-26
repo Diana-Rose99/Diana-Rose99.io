@@ -5,7 +5,6 @@ layout: tags
 author_profile: true
 toc: true
 ---
-
 ---
 
 ## Introduction to Cisco Packet Tracer
