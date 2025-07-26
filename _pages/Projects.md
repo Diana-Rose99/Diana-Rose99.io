@@ -5,8 +5,6 @@ permalink: /Projects/
 author_profile: true
 ---
 
-# Projects
-
 ---
 
 ## AI-Based Physiotherapy Consultation Application for Sports (JKUAT Final Year Project)
